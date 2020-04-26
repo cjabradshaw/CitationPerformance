@@ -6,7 +6,7 @@
 library(car)
 
 # set working directory
-setwd("~/Documents/Other/")
+setwd("~/.../") # update to directory with .csv data file
 
 ## import
 citind <- read.csv("newcitationindexsample.csv", header=T)
